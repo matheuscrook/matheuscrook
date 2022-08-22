@@ -6,16 +6,11 @@
 
 Estudando no **Colégio Santo Inácio**<br/>
 
-[instagram]: https://www.instagram.com/matheuscrook/
-[linkedin]: https://www.linkedin.com/in/matheus-crook-b45b91233/
+
 <br>
 
-#### Redes Sociais!
-
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin] **|**
-
-
+<a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-crook-b45b91233/" /></a>
 
 </p>
 <hr>
