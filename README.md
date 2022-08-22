@@ -4,9 +4,7 @@
 
 <p>
 
-Estudando/trabalhando no **Colégio Santo Inácio**<br/>
-
-Eu sou desenvolvedor **frontend**.
+Estudando no **Colégio Santo Inácio**<br/>
 
 
 </p>
