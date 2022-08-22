@@ -12,7 +12,7 @@ Estudando no <br>**Colégio Santo Inácio**<br/>
 
 <p align="left">
   <a href="#" alt="Linkedin">
-  <url="https://www.linkedin.com/in/matheus-crook-b45b91233/>"<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white</url>
+  <url="https://www.linkedin.com/in/matheus-crook-b45b91233/>" <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&</a></url>
   </a>
 
   <a href="#" alt="WhatsApp">
