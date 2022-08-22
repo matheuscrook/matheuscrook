@@ -10,7 +10,7 @@ Estudando no **Colégio Santo Inácio**<br/>
 [linkedin]: https://www.linkedin.com/in/matheus-crook-b45b91233/
 <br>
 
-#### Rede Sociais!
+#### Redes Sociais!
 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] **|**
