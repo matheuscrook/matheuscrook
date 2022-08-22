@@ -4,7 +4,7 @@
 
 <p>
 
-Cursando Téc. de Informática no **Colégio Santo Inácio**
+Cursando Téc. de Informática voltado a programação no **Colégio Santo Inácio**
   
 <br/>
 
