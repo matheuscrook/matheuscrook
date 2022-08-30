@@ -4,7 +4,7 @@
 
 <p>
 
-Téc. de Suporte a mais de 7 anos.
+Téc. de Informática a mais de 7 anos.
   
 Cursando Téc. de Informática voltado a programação no: 
   <br>**Colégio Santo Inácio**
