@@ -10,7 +10,7 @@ Cursando Téc. de Informática voltado a programação no:
   <br>**Colégio Santo Inácio**
  
 
-<img align='center' width='100%' src="https://64.media.tumblr.com/7cad9c212d874927c0b69469c649df7f/d0c33dc4908cc2c0-12/s1280x1920/c1f76d88649e2e8e60b2b30a2306c7f7bb3c7766.gifv">
+<img align='center' src="https://64.media.tumblr.com/7cad9c212d874927c0b69469c649df7f/d0c33dc4908cc2c0-12/s2048x3072/abbf00eb1b2791e6a5622fbeeee884b4380f0a43.gifv">
 
  
  
